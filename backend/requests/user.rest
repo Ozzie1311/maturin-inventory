@@ -1,0 +1,9 @@
+post http://localhost:3001/api/users/register
+Content-Type: application/json
+
+{
+    "nombre": "Oswaldo Rodríguez",
+    "email": "rodriosw13@gmail.com",
+    "password": "123456",
+    "rol": "admin"
+}

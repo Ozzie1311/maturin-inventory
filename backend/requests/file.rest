@@ -1,0 +1,4 @@
+get http://localhost:3001/inventario
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTliN2JkYzU0NDNjOTNlMDM1M2UwYzYiLCJyb2wiOiJhZG1pbiIsImlhdCI6MTc3MTc5NzUzMywiZXhwIjoxNzcxODgzOTMzfQ.Nhbi2ju4m1X3CRHDtrEGgx6gThYej0R2wl7gZDx6njc
+
+

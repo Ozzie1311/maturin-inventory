@@ -1,0 +1,13 @@
+post http://localhost:3001
+Content-Type: application/json
+
+{
+    "name": "Mini switch",
+    "category": "Networking",
+    "brand": "CODY",
+    "model": "TS-51",
+    "serialNumber": "axx-xxxxx",
+    "status": "Disponible",
+    "location": "Almacen",
+    "stock": "1"
+}
